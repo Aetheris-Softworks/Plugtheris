@@ -1,5 +1,6 @@
 # 🌌 Plugtheris
 **The Aetheris Enhancement Project**
+
 ![Version](https://img.shields.io/github/v/release/unixetp/Plugtheris?style=for-the-badge&color=blue)
 ![License](https://img.shields.io/github/license/unixetp/Plugtheris?style=for-the-badge&color=green)
 ![Stars](https://img.shields.io/github/stars/unixetp/Plugtheris?style=for-the-badge&color=yellow)
