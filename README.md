@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/github/license/unixetp/Plugtheris)
 ![Downloads](https://img.shields.io/github/downloads/unixetp/Plugtheris/total)
 
+
 ![Plugtheris Banner](images/banner.png)
 
 Plugtheris is an open-source patcher for [Aetheris](#), enabling plugins, custom CSS, and enhanced functionality for your web application (Aetheris).  
