@@ -1,5 +1,7 @@
 # 🌌 Plugtheris
-**The Aetheris Enhancement Project**  
+**The Aetheris Enhancement Project** 
+
+![Plugtheris Banner](images/banner.png)
 
 Plugtheris is an open-source patcher for [Aetheris](#), enabling plugins, custom CSS, and enhanced functionality for your web application.  
 Inspired by projects like Vencord and BetterDiscord, but built specifically for Aetheris.  
