@@ -1,5 +1,8 @@
 # 🌌 Plugtheris
-**The Aetheris Enhancement Project** 
+**The Aetheris Enhancement Project**
+![Version](https://img.shields.io/github/v/release/unixetp/Plugtheris)
+![License](https://img.shields.io/github/license/unixetp/Plugtheris)
+![Downloads](https://img.shields.io/github/downloads/unixetp/Plugtheris/total)
 
 ![Plugtheris Banner](images/banner.png)
 
