@@ -1,8 +1,12 @@
 # 🌌 Plugtheris
 **The Aetheris Enhancement Project**
-![Version](https://img.shields.io/github/v/release/unixetp/Plugtheris)
-![License](https://img.shields.io/github/license/unixetp/Plugtheris)
-![Downloads](https://img.shields.io/github/downloads/unixetp/Plugtheris/total)
+![Version](https://img.shields.io/github/v/release/unixetp/Plugtheris?style=for-the-badge&color=blue)
+![License](https://img.shields.io/github/license/unixetp/Plugtheris?style=for-the-badge&color=green)
+![Stars](https://img.shields.io/github/stars/unixetp/Plugtheris?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/unixetp/Plugtheris?style=for-the-badge&color=orange)
+![Last commit](https://img.shields.io/github/last-commit/unixetp/Plugtheris?style=for-the-badge&color=informational)
+![Open Issues](https://img.shields.io/github/issues/unixetp/Plugtheris?style=for-the-badge&color=critical)
+
 
 
 ![Plugtheris Banner](images/banner.png)
