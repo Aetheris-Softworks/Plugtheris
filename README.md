@@ -1,22 +1,34 @@
-# React + TypeScript + Vite
+# 🌌 Plugtheris
+**The Aetheris Enhancement Project**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![License](https://img.shields.io/github/license/unixetp/Plugtheris?style=for-the-badge&color=green)
+![Stars](https://img.shields.io/github/stars/unixetp/Plugtheris?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/unixetp/Plugtheris?style=for-the-badge&color=orange)
+![Last commit](https://img.shields.io/github/last-commit/unixetp/Plugtheris?style=for-the-badge&color=informational)
+![Open Issues](https://img.shields.io/github/issues/unixetp/Plugtheris?style=for-the-badge&color=critical)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+![Plugtheris Banner](images/banner.png)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Plugtheris is an open-source patcher for [Aetheris](#), enabling plugins, custom CSS, and enhanced functionality for Aetheris.  
+Inspired by projects like Vencord and BetterDiscord, but built specifically for Aetheris.  
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
+---
+
+## ✨ Features
+- 🔌 **Plugins** — easily enable and disable extensions.
+- 🎨 **Custom CSS** — style the interface your way.
+- ⚡ **Real-time Loading** — changes apply instantly.
+- 🌍 **Open Source** — community-driven and collaborative.
+
+---
+
+## 📥 Installation
+1. Download the latest version from [Releases](#).
+2. Run the installer.
+3. Select your Aetheris installation folder.
+4. Done.    extends: [
       // Other configs...
 
       // Remove tseslint.configs.recommended and replace with this
