@@ -28,4 +28,4 @@ Inspired by projects like Vencord and BetterDiscord, but built specifically for 
 1. Download the latest version from [Releases](#).
 2. Run the installer.
 3. Select your Aetheris installation folder.
-4. Done.
+4. Patch!
